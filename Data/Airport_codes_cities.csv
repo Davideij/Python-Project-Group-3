@@ -1,0 +1,105 @@
+Airport_Code,City,Country
+EBAW,Antwerp,Belgium
+EBBR,Brussels,Belgium
+EBCI,Charleroi,Belgium
+EBLG,Liege,Belgium
+EBOS,Ostend,Belgium
+EDDB,Berlin,Germany
+EDDC,Dresden,Germany
+EDDE,Erfurt,Germany
+EDDF,Frankfurt,Germany
+EDDG,Munster,Germany
+EDDH,Hamburg,Germany
+EDDK,Cologne,Germany
+EDDL,Düsseldorf,Germany
+EDDM,Munich,Germany
+EDDN,Nuremberg,Germany
+EDDP,Leipzig,Germany
+EDDR,Saarbrucken,Germany
+EDDS,Stuttgart,Germany
+EDDT,Berlin,Germany
+EDDV,Hannover,Germany
+EDDW,Bremen,Germany
+EDFH,Frankfurt,Germany
+EDJA,Memmingen,Germany
+EDLP,Paderborn,Germany
+EDLV,Weeze,Germany
+EDLW,Dortmund,Germany
+EDNY,Friedrichshafen,Germany
+EDSB,Karlsruhe/Baden-Baden,Germany
+EHAM,Amsterdam,Netherlands
+EHBK,Maastricht,Netherlands
+EHEH,Eindhoven,Netherlands
+EHGG,Groningen,Netherlands
+EHRD,Rotterdam,Netherlands
+ELLX,Luxembourg City,Luxembourg
+ETNL,Rostock,Germany
+GCFV,Fuerteventura,Spain
+GCHI,El Hierro,Spain
+GCLA,La Palma,Spain
+GCLP,Gran Canaria,Spain
+GCRR,Lanzarote,Spain
+GCTS,Tenerife South,Spain
+GCXO,Tenerife North,Spain
+GEML,Melilla,Spain
+LEAL,Alicante,Spain
+LEAM,Almeria,Spain
+LEAS,Asturias,Spain
+LEBB,Bilbao,Spain
+LEBL,Barcelona,Spain
+LECO,A Coruna,Spain
+LEGE,Girona,Spain
+LEGR,Granada,Spain
+LEIB,Ibiza,Spain
+LEJR,Jerez,Spain
+LELC,Murcia,Spain
+LEMD,Madrid,Spain
+LEMG,Malaga,Spain
+LEMH,Menorca,Spain
+LEMI,Murcia,Spain
+LEPA,Palma de Mallorca,Spain
+LEPP,Pamplona,Spain
+LERS,Reus,Spain
+LESO,San Sebastian,Spain
+LEST,Santiago de Compostela,Spain
+LEVC,Valencia,Spain
+LEVD,Valladolid,Spain
+LEVT,Vitoria,Spain
+LEVX,Vigo,Spain
+LEXJ,Santander,Spain
+LEZG,Zaragoza,Spain
+LEZL,Seville,Spain
+LFBD,Bordeaux,France
+LFBE,Bergerac,France
+LFBH,La Rochelle,France
+LFBL,Limoges,France
+LFBO,Toulouse,France
+LFBP,Pau,France
+LFBT,Tarbes,France
+LFBZ,Biarritz,France
+LFJL,Metz-Nancy-Lorraine,France
+LFKB,Bastia,France (Corsica)
+LFKC,Calvi,France (Corsica)
+LFKF,Figari,France (Corsica)
+LFKJ,Ajaccio,France (Corsica)
+LFLC,Clermont-Ferrand,France
+LFLL,Lyon,France
+LFMK,Carcassonne,France
+LFML,Marseille,France
+LFMN,Nice,France
+LFMP,Perpignan,France
+LFMT,Montpellier,France
+LFMU,Beziers,France
+LFOB,Beauvais,France
+LFOT,Tours,France
+LFPG,Paris,France
+LFPO,Paris,France
+LFQQ,Lille,France
+LFRB,Brest,France
+LFRK,Caen,France
+LFRN,Rennes,France
+LFRS,Nantes,France
+LFSB,Basel/Mulhouse,France/Switzerland
+LFST,Strasbourg,France
+LFTH,Toulon,France
+LFTW,Nimes,France
